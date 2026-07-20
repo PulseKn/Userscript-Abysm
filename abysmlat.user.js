@@ -2,7 +2,7 @@
 // @name         Abysm New
 // @namespace    Abysm 1.0
 // @version      1.0
-// @description  Abysm Userscript with RedSquare evasion and abysmlat.netlify.app design
+// @description  Abysm Userscript 
 // @author       Pulse X Abysm.lat
 // @icon         https://cdn.discordapp.com/attachments/1513195149683982438/1513577304805081259/88NWTfAAAABklEQVQDANmNhikruLIPAAAAAElFTkSuQmCC.png?ex=6a283c36&is=6a26eab6&hm=20592c8e41afa324434ebaac63cd46bc7c9c6bbb3a17660e86ad68264ffe04a8&
 //
