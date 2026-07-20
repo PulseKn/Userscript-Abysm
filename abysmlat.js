@@ -62,6 +62,9 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @grant        unsafeWindow
+// @downloadURL  https://github.com/PulseKn/Userscript-Abysm/raw/refs/heads/main/abysmlat.js
+// @updateURL    https://github.com/PulseKn/Userscript-Abysm/raw/refs/heads/main/abysmlat.js
+// @homepageURL  abysmlat.netlify.app
 //
 // @run-at       document-start
 // @license      MIT
