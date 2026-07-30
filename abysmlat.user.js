@@ -5,6 +5,8 @@
 // @description  Fast And Secure bypass <3
 // @author       Pulse X Abysm
 // @icon         https://cdn.discordapp.com/icons/1510051398257999904/5fe984b0cd43b1c53ba5626e87819ba9.png?size=4096
+// @downloadURL  https://github.com/PulseKn/Userscript-Abysm/raw/refs/heads/main/abysmlat.user.js
+// @updateURL    https://github.com/PulseKn/Userscript-Abysm/raw/refs/heads/main/abysmlat.user.js
 //
 // @match        *://loot-link.com/s?*
 // @match        *://loot-links.com/s?*
